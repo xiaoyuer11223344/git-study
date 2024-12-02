@@ -4,11 +4,8 @@ from start import start
 from end import end
 
 def test():
-<<<<<<< HEAD
     start()
-=======
     demo()
->>>>>>> main
     print("this is test func")
     end()
 
